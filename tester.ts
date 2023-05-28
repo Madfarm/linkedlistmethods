@@ -31,6 +31,8 @@ function print(head: ListNode): string {
         temp = temp.next;
     }
     
+    output += 'NULL';
+
     return output;
 }
 
