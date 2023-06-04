@@ -19,6 +19,30 @@ namespace LinkedListExample
                 System.Console.WriteLine($"{temp.val}");
                 temp = temp.next;
             }
+
+            head = reverseList(head);
+            temp = head;
+            while (temp != null)
+            {
+                System.Console.WriteLine($"{temp.val}");
+                temp = temp.next;
+            }
+
+        }
+
+
+        static Node reverseList(Node listNode)
+        {
+            if (listNode == null || listNode.next == null) return listNode;
+
+            Node rest = reverseList(listNode.next);
+
+            listNode.next.next = listNode;
+            listNode.next = null;
+
+
+            return rest;
+
         }
     }
 
