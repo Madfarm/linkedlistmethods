@@ -1,0 +1,15 @@
+/root/code-sandbox/CS-topics/linkedlist/cSharpVersion/bin/Debug/net7.0/cSharpVersion
+/root/code-sandbox/CS-topics/linkedlist/cSharpVersion/bin/Debug/net7.0/cSharpVersion.deps.json
+/root/code-sandbox/CS-topics/linkedlist/cSharpVersion/bin/Debug/net7.0/cSharpVersion.runtimeconfig.json
+/root/code-sandbox/CS-topics/linkedlist/cSharpVersion/bin/Debug/net7.0/cSharpVersion.dll
+/root/code-sandbox/CS-topics/linkedlist/cSharpVersion/bin/Debug/net7.0/cSharpVersion.pdb
+/root/code-sandbox/CS-topics/linkedlist/cSharpVersion/obj/Debug/net7.0/cSharpVersion.csproj.AssemblyReference.cache
+/root/code-sandbox/CS-topics/linkedlist/cSharpVersion/obj/Debug/net7.0/cSharpVersion.GeneratedMSBuildEditorConfig.editorconfig
+/root/code-sandbox/CS-topics/linkedlist/cSharpVersion/obj/Debug/net7.0/cSharpVersion.AssemblyInfoInputs.cache
+/root/code-sandbox/CS-topics/linkedlist/cSharpVersion/obj/Debug/net7.0/cSharpVersion.AssemblyInfo.cs
+/root/code-sandbox/CS-topics/linkedlist/cSharpVersion/obj/Debug/net7.0/cSharpVersion.csproj.CoreCompileInputs.cache
+/root/code-sandbox/CS-topics/linkedlist/cSharpVersion/obj/Debug/net7.0/cSharpVersion.dll
+/root/code-sandbox/CS-topics/linkedlist/cSharpVersion/obj/Debug/net7.0/refint/cSharpVersion.dll
+/root/code-sandbox/CS-topics/linkedlist/cSharpVersion/obj/Debug/net7.0/cSharpVersion.pdb
+/root/code-sandbox/CS-topics/linkedlist/cSharpVersion/obj/Debug/net7.0/cSharpVersion.genruntimeconfig.cache
+/root/code-sandbox/CS-topics/linkedlist/cSharpVersion/obj/Debug/net7.0/ref/cSharpVersion.dll
